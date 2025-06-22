@@ -10,8 +10,7 @@ A secure and customizable **Password Generator** built using **HTML, CSS, and Ja
 
 ## 🌐 Live Demo
 
-👉 [Try the Password Generator](https://your-live-link.vercel.app/)  
-*(Replace with your actual deployed link)*
+👉 https://lec-15-password-generator.vercel.app/
 
 ---
 
