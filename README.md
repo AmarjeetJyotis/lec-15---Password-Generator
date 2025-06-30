@@ -35,6 +35,23 @@ A secure and customizable **Password Generator** built using **HTML, CSS, and Ja
 
 ---
 
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 📸 Interface Preview
 
 Password Generator
@@ -91,16 +108,6 @@ Feel free to reach out for collaboration, feedback, or improvements.
 
 📜 License
 This project is licensed under the MIT License – feel free to use it in your own work!
-
-less
-Copy
-Edit
-
-Let me know if you’d like the code files (`HTML`, `CSS`, and `JS`) or help deploying to GitHub Pages or Vercel.
-
-
-
-
 
 
 
